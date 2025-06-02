@@ -1,7 +1,7 @@
 # GithubForDevelopers
 สวัสดีครับยินต้อนรับเข้าสู่ GitHub ของเรา
 
-# Project Title
+# Git for Developer course
 
 A brief description of what this project does and who it's for
 
